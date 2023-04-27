@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "816063479247",
+    "project_id": "crop-health-check",
+    "storage_bucket": "crop-health-check.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816063479247:android:490ffb347d91476ccaa6ba",
+        "android_client_info": {
+          "package_name": "com.example.crop_disease_detection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816063479247-ec3aa4vc0ecqi2eqvg0ar1n03aus06b2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.crop_disease_detection",
+            "certificate_hash": "751431edfd26122622f170f88361206b30233986"
+          }
+        },
+        {
+          "client_id": "816063479247-8kkk3qj56todjoi1a44uqvn6c4t6f8ke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcoj_dnIAznKtCs7jHSTs3Q_i72DHYHn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816063479247-8kkk3qj56todjoi1a44uqvn6c4t6f8ke.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "816063479247-ug893c7c9d3mlrv01gj2jfbtph7p9p2m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cropDiseaseDetection"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
